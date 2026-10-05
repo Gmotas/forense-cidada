@@ -1,5 +1,9 @@
 # 🔐 Forense Cidadã — Segurança Digital e Preservação de Evidências
 
+![Security](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![UniCV](https://img.shields.io/badge/Academic-Extension%20Project-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 **Projeto de Extensão — UniCV | Segurança da Informação**
 
 **Estudante:** Gabriel Mota Silva  
@@ -40,6 +44,20 @@ Foi desenvolvido um **carrossel educativo de 5 cards**, com linguagem acessível
 - LinkedIn: publicação educativa do projeto
 - GitHub: este repositório público
 
+## 📥 Como utilizar e compartilhar
+
+O material pode ser consultado e baixado diretamente deste repositório. Para compartilhar com familiares ou com a comunidade, abra a pasta [`materiais/carrossel/`](./materiais/carrossel/) e baixe os cards individualmente. Os arquivos podem ser salvos no celular, enviados pelo WhatsApp da família ou utilizados para impressão.
+
+Para uso acadêmico ou educativo, recomenda-se manter a identificação do projeto e o contexto original da informação.
+
+> **Importante:** o repositório atualmente disponibiliza os cards educativos em SVG. Uma versão consolidada em PDF pode ser adicionada posteriormente à pasta de materiais para facilitar impressão e distribuição.
+
+## 🤝 Como contribuir
+
+Você pode contribuir divulgando o material para pessoas que possam se beneficiar das orientações, sugerindo melhorias no conteúdo ou relatando necessidades educativas relacionadas à segurança digital.
+
+Para contribuições técnicas ou de conteúdo, abra uma *Issue* ou envie um *Pull Request* no GitHub descrevendo claramente a sugestão.
+
 ## 📌 Evidências
 
 Os arquivos em `evidencias/interacoes/` devem conter somente capturas reais de curtidas, comentários, compartilhamentos, visualizações ou outros indicadores efetivamente observados.
@@ -54,6 +72,6 @@ A proposta aproxima conhecimentos de Segurança da Informação das necessidades
 
 O conteúdo deste repositório foi organizado a partir do resumo integrado fornecido pelo estudante, preservando sua terminologia, organização e escopo. Referências bibliográficas devem ser conferidas contra a versão final submetida ao UniCV antes da entrega definitiva.
 
-## Licença
+## 📄 Licença
 
-Material educacional para fins acadêmicos e de extensão comunitária.
+Este projeto é disponibilizado sob a **Licença MIT**. Consulte o arquivo [LICENSE](./LICENSE) para os termos completos.
